@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-import plotly.graph_objects as go
+import st.plotly_graph_objects as go
 from collections import deque
 
 # Custom CSS to adjust the width of the Streamlit app
